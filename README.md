@@ -39,6 +39,8 @@ Connected Traffic Light Systems
 As opposed to conventional traffic lights, smart traffic light systems integrate the aforementioned sensor and connected video monitoring technologies to account for intersection wait times, vehicle speed, and/or pedestrian traffic. Intelligent traffic light systems incorporate artificial intelligence (AI) and Machine Learning (ML) processes to enable computer vision, optical character recognition (OCR), and reinforcement learning
 Conclusion:
 This Project presents a solution to deal with traffic congestion in metropolitan cities and presents a central traffic control system which runs on a pretty simple algorithm. Our product would include the entire mechanism of detection of congestion and increasing the red light duration of traffic signals in the crossings
+![image](https://github.com/Abhivarma2003/CODTECH-Task-1/assets/140427059/1c44bd82-939a-4a46-b8e3-22422858605d)
+
 
 
 
